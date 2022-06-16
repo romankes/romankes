@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romankes
-- 👀 I’m interested in Backend and Frontend technology. Like use in my work libs such as Socket.io, Express, React/ReactNative, Redux, Rexuc-Saga
+- 👀 I’m interested in Backend and Frontend technology. Like use in my work libs such as Socket.io, Express, React/ReactNative, Redux, Redux-Saga
 - 🌱 I’m currently learning NodeJs and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
